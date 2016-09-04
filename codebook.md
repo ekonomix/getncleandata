@@ -87,9 +87,9 @@ fBodyBodyGyroJerkMag-meanFreq()(num)
 
 
 Activity labels:
-WALKING (value 1)(int) : subject was walking during the test
-WALKING_UPSTAIRS (value 2)(int) : subject was walking up a staircase during the test
-WALKING_DOWNSTAIRS (value 3)(int) : subject was walking down a staircase during the test
-SITTING (value 4)(int) : subject was sitting during the test
-STANDING (value 5)(int) : subject was standing during the test
-LAYING (value 6)(int) : subject was laying down during the test
+WALKING             (value 1)(int) : subject was walking during the test
+WALKING_UPSTAIRS    (value 2)(int) : subject was walking up a staircase during the test
+WALKING_DOWNSTAIRS  (value 3)(int) : subject was walking down a staircase during the test
+SITTING             (value 4)(int) : subject was sitting during the test
+STANDING            (value 5)(int) : subject was standing during the test
+LAYING              (value 6)(int) : subject was laying down during the test
